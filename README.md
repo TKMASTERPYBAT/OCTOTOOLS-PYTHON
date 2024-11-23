@@ -1,6 +1,3 @@
-# OCTOTOOLS-PYTHON
-Beginner programmer on python please tell me if there is anything wrong or fix it and its a tool that has OS TOOLS OSINT TOOLS and SCRAPPER TOOLS
-
 It Has
 
 OS TOOLS
@@ -22,3 +19,5 @@ OSINT TOOLS
 SCRAPPER TOOLS
 13) Credit Card!
 14) Number Scraper
+
+I am i beginner programmer in python (sort off) if there is anything wrong with this please it
